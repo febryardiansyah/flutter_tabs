@@ -1,6 +1,6 @@
 # tabs
 
-A new Flutter application.
+A flutter tabs application
 
 ## Getting Started
 
